@@ -88,4 +88,5 @@ Next
 
 Android pic
 
+![IMG_20201015_094114](https://user-images.githubusercontent.com/69615463/96359235-4e063a00-1132-11eb-95b0-7b1d39ad7285.jpg)
 
