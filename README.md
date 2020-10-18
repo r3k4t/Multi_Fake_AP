@@ -1,4 +1,4 @@
-[![MIT](https://img.shields.io/packagist/P/doctrine/orm.svg)](https://github.com/r3k4t/Multi_Fake_AP/blob/master/LICENSE)
+[![MIT](https://img.shields.io/packagist/r/doctrine/orm.svg)](https://github.com/r3k4t/Multi_Fake_AP/blob/master/LICENSE)
 
 <h2>Multi Fake AP</h2>
 
