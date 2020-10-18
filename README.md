@@ -19,8 +19,7 @@ Python 3.6.8 (default, Oct  7 2019, 12:59:55)
 <br>
 [GCC 8.3.0] on linux
 <br>
-Type "help", "copyright", "credits" or "license" for more information.
-<br>
+Type "help", "copyright", "credits" or "license" for more information
 <br>
 >>> from faker import Faker
 <br>
