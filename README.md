@@ -1,10 +1,11 @@
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/Multi_Fake_AP/blob/master/LICENSE)
+[![python](https://img.shields.io/badge/python-3.0-brightgreen.svg)](https://www.python.org/download/releases/3.0/)
 
 <h2>Multi Fake AP</h2>
 
 <h4>Author : RKT</h4>
 
-### Descripton ###
+### Description ###
 
 ![1](https://user-images.githubusercontent.com/69615463/96358957-aafdf200-112a-11eb-9338-0997394c28a5.png)
 
