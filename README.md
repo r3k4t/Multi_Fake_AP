@@ -14,15 +14,25 @@ This program can create multiple wifi fake APs(Access points).This tool name is 
 ### Python Faker module(Concept) ###
 
 python3
+<br>
 Python 3.6.8 (default, Oct  7 2019, 12:59:55) 
+<br>
 [GCC 8.3.0] on linux
+<br>
 Type "help", "copyright", "credits" or "license" for more information.
+<br>
 >>> from faker import Faker
+<br>
 >>> faker = Faker()
+<br>
 >>> rkt_ap = 5
+<br>
 >>> iface =" wlp2s0mon"
+<br>
 >>> ssids_macs = [(faker.name(),faker.mac_address()) for i in range(rkt_ap)]
+<br>
 >>> print (ssids_macs)
+<br>
 [('Sarah Shah', '74:98:97:48:86:56'), ('Anthony Lopez', '4d:fe:ec:24:ca:2e'), ('Kenneth Patel', '30:88:fa:12:b6:52'), ('Henry Middleton', 'fa:76:df:04:bb:ff'), ('Roberto Peterson', 'b3:05:2a:79:40:07')]
 
 ### Installation  ###
