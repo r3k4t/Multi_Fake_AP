@@ -1,5 +1,5 @@
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/Multi_Fake_AP/blob/master/LICENSE)
-[![python](https://img.shields.io/badge/python-3.9.0-brightgreen.svg)](https://www.python.org/downloads/release/python-390/)                                         
+[![python](https://img.shields.io/badge/python-3.9.0-brightred.svg)](https://www.python.org/downloads/release/python-390/)                                         
 
 <h2>Multi Fake AP</h2>
 
