@@ -21,6 +21,7 @@ Python 3.6.8 (default, Oct  7 2019, 12:59:55)
 <br>
 Type "help", "copyright", "credits" or "license" for more information.
 <br>
+<br>
 >>> from faker import Faker
 <br>
 >>> faker = Faker()
